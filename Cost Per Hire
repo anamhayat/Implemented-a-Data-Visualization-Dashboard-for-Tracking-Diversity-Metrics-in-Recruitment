@@ -1,0 +1,9 @@
+KPI Group: Recruitment
+unit Currency: 
+Type: LTB
+
+Formula: Cost Per Hire = Total Recruitment CostNumber of Hires\text(Cost per Hire)= \frac{frac{\text(Total Recruitment costs)}
+{\text{Number of Hires}} Cost per Hire = Number of Hires Total Recruitment Costs
+
+Definition: The average cost incurred to hire an employee
+
